@@ -218,3 +218,8 @@ td {
     position: relative;
     top: 150px;
 }
+
+footer {
+    text-align: center;
+    padding: 3.75rem 0;
+}

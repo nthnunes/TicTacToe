@@ -2,4 +2,4 @@
 
 Linguagens Usadas: HTML, CSS, JavaScript.
 
-Link: https://nthnunes.github.io/tic-tac-toe/.
+Link: https://nthnunes.github.io/TicTacToe/.
